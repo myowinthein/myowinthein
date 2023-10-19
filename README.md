@@ -14,6 +14,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=myowinthein&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=myowinthein&theme=tokyonight&hide_border=false)
-
-### Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
