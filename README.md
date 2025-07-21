@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+profile.;I'm+Myo+Win+Thein+(Martin).;A+Full+Stack+Developer+from+Myanmar.)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on StudyMe<br>🌱 I’m currently learning DevOps<br>💬 Ask me about PHP, Laravel, JavaScript, Vue.js & AWS<br>👨‍💻 All of my projects are available at https://myowin.dev/<br>📄 Know about my experiences [here](https://drive.google.com/uc?export=download&id=1GXGGF_SNVm6FMNBKqhZ-I51G5SRFCfGG)
+🔭 I’m currently working for StudyMe<br>🌱 I’m currently learning DevOps<br>💬 Ask me about PHP, Laravel, JavaScript, Vue.js & AWS<br>👨‍💻 You can find all my projects at https://myowin.dev/<br>📄 Learn more about my experience [here](https://drive.google.com/uc?export=download&id=1GXGGF_SNVm6FMNBKqhZ-I51G5SRFCfGG)
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/myowinthein91) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
